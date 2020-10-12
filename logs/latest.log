@@ -1,11 +1,55 @@
-[02:47:29] [User Authenticator #80/INFO]: UUID of player blessedsh1t is 39a7328d-2294-44f5-ba41-6a56445eb71f
-[02:47:29] [Server thread/INFO]: blessedsh1t[/186.84.88.227:16699] logged in with entity id 365408 at ([world]-2443.1110266637493, 88.0, -2076.1302865611506)
-[02:47:53] [User Authenticator #81/INFO]: UUID of player kryyyyyyyyyyyyy is 180bf6eb-1ec8-42e2-a93a-c78c59948ca4
-[02:47:54] [Server thread/INFO]: kryyyyyyyyyyyyy[/190.245.249.215:52693] logged in with entity id 365469 at ([world]-2443.1930392587615, 89.0, -2082.672075423466)
-[02:47:59] [Async Chat Thread - #72/INFO]: <kryyyyyyyyyyyyy> q paso pa[m
-[02:48:00] [Async Chat Thread - #72/INFO]: <kryyyyyyyyyyyyy> te asustaste[m
-[02:49:42] [Server thread/INFO]: blessedsh1t lost connection: Disconnected
-[02:49:42] [Server thread/INFO]: blessedsh1t left the game
-[02:55:23] [Server thread/INFO]: Villager EntityVillager['Librarian'/356311, l='ServerLevel[world]', x=-2470.70, y=64.00, z=-1995.30] died, message: 'Librarian was slain by Zombie'
-[02:58:13] [Server thread/INFO]: kryyyyyyyyyyyyy lost connection: Disconnected
-[02:58:13] [Server thread/INFO]: kryyyyyyyyyyyyy left the game
+[00:04:10] [Server thread/INFO]: blessedsh1t lost connection: Disconnected
+[00:04:10] [Server thread/INFO]: blessedsh1t left the game
+[00:09:43] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /time set night
+[00:09:43] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set the time to 13000]
+[00:14:46] [Server thread/INFO]: kryyyyyyyyyyyyy fell from a high place
+[00:23:22] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode spectator
+[00:23:22] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Spectator Mode]
+[00:23:53] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode survival
+[00:23:53] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Survival Mode]
+[00:33:06] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode spectator
+[00:33:06] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Spectator Mode]
+[00:33:12] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode survival
+[00:33:12] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Survival Mode]
+[00:38:37] [Server thread/INFO]: kryyyyyyyyyyyyy has made the advancement [A Terrible Fortress]
+[00:39:25] [Server thread/INFO]: kryyyyyyyyyyyyy has made the advancement [Into Fire]
+[00:44:39] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode spectator
+[00:44:39] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Spectator Mode]
+[00:44:43] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode survival
+[00:44:43] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Survival Mode]
+[00:50:53] [Server thread/INFO]: Villager EntityVillager['Villager'/419723, l='ServerLevel[world]', x=-2475.10, y=64.06, z=-2001.50] died, message: 'Villager was slain by Zombie'
+[00:51:38] [Server thread/INFO]: kryyyyyyyyyyyyy has made the advancement [Local Brewery]
+[00:52:29] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode spectator
+[00:52:29] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Spectator Mode]
+[00:52:35] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode survival
+[00:52:35] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Survival Mode]
+[00:56:55] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /difficulty hard
+[00:56:55] [Server thread/INFO]: [kryyyyyyyyyyyyy: The difficulty has been set to Hard]
+[00:57:17] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /time set night
+[00:57:17] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set the time to 13000]
+[01:02:21] [Server thread/INFO]: Villager EntityVillager['Librarian'/410166, l='ServerLevel[world]', x=-2468.50, y=63.50, z=-1995.70] died, message: 'Librarian was slain by Zombie'
+[01:02:41] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode spectator
+[01:02:41] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Spectator Mode]
+[01:02:45] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode survival
+[01:02:45] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Survival Mode]
+[01:02:45] [Server thread/WARN]: kryyyyyyyyyyyyy moved wrongly!
+[01:02:50] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode spectator
+[01:02:50] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Spectator Mode]
+[01:02:55] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode survival
+[01:02:55] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Survival Mode]
+[01:07:22] [Server thread/INFO]: kryyyyyyyyyyyyy has reached the goal [Zombie Doctor]
+[01:07:43] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode spectator
+[01:07:43] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Spectator Mode]
+[01:07:46] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode survival
+[01:07:46] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Survival Mode]
+[01:19:18] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode spectator
+[01:19:18] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Spectator Mode]
+[01:19:24] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode survival
+[01:19:24] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Survival Mode]
+[01:19:56] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode spectator
+[01:19:56] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Spectator Mode]
+[01:20:04] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode survival
+[01:20:04] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Survival Mode]
+[01:20:04] [Server thread/WARN]: kryyyyyyyyyyyyy moved wrongly!
+[01:27:02] [Server thread/INFO]: kryyyyyyyyyyyyy lost connection: Disconnected
+[01:27:02] [Server thread/INFO]: kryyyyyyyyyyyyy left the game
