@@ -335,6 +335,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_birch_wood": {
+    "criteria": {
+      "has_log": "2020-10-17 05:31:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_white_dye": "2020-10-11 21:27:27 +0000"
@@ -1314,6 +1320,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2020-10-12 21:34:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2020-09-23 22:37:48 +0000"
@@ -1377,6 +1389,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis": "2020-09-24 06:38:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2020-10-23 15:09:38 +0000"
     },
     "done": true
   },
@@ -1763,6 +1781,7 @@
       "baked_potato": "2020-09-30 19:27:32 +0000",
       "apple": "2020-09-23 22:32:07 +0000",
       "potato": "2020-09-30 19:22:45 +0000",
+      "pumpkin_pie": "2020-10-17 04:12:16 +0000",
       "bread": "2020-09-24 02:12:05 +0000",
       "golden_apple": "2020-09-26 23:48:46 +0000",
       "rotten_flesh": "2020-09-26 23:50:30 +0000",
@@ -2193,6 +2212,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2020-10-17 03:37:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-09-23 23:20:47 +0000"
@@ -2220,6 +2245,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2020-09-23 23:14:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2020-10-17 03:37:45 +0000"
     },
     "done": true
   },
@@ -2903,6 +2934,7 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
+      "textures/entity/cat/white.png": "2020-10-17 04:50:41 +0000",
       "textures/entity/cat/jellie.png": "2020-09-24 01:20:11 +0000",
       "textures/entity/cat/siamese.png": "2020-10-06 02:38:14 +0000"
     },

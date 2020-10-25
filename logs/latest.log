@@ -1,55 +1,13 @@
-[00:04:10] [Server thread/INFO]: blessedsh1t lost connection: Disconnected
-[00:04:10] [Server thread/INFO]: blessedsh1t left the game
-[00:09:43] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /time set night
-[00:09:43] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set the time to 13000]
-[00:14:46] [Server thread/INFO]: kryyyyyyyyyyyyy fell from a high place
-[00:23:22] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode spectator
-[00:23:22] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Spectator Mode]
-[00:23:53] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode survival
-[00:23:53] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Survival Mode]
-[00:33:06] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode spectator
-[00:33:06] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Spectator Mode]
-[00:33:12] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode survival
-[00:33:12] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Survival Mode]
-[00:38:37] [Server thread/INFO]: kryyyyyyyyyyyyy has made the advancement [A Terrible Fortress]
-[00:39:25] [Server thread/INFO]: kryyyyyyyyyyyyy has made the advancement [Into Fire]
-[00:44:39] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode spectator
-[00:44:39] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Spectator Mode]
-[00:44:43] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode survival
-[00:44:43] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Survival Mode]
-[00:50:53] [Server thread/INFO]: Villager EntityVillager['Villager'/419723, l='ServerLevel[world]', x=-2475.10, y=64.06, z=-2001.50] died, message: 'Villager was slain by Zombie'
-[00:51:38] [Server thread/INFO]: kryyyyyyyyyyyyy has made the advancement [Local Brewery]
-[00:52:29] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode spectator
-[00:52:29] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Spectator Mode]
-[00:52:35] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode survival
-[00:52:35] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Survival Mode]
-[00:56:55] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /difficulty hard
-[00:56:55] [Server thread/INFO]: [kryyyyyyyyyyyyy: The difficulty has been set to Hard]
-[00:57:17] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /time set night
-[00:57:17] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set the time to 13000]
-[01:02:21] [Server thread/INFO]: Villager EntityVillager['Librarian'/410166, l='ServerLevel[world]', x=-2468.50, y=63.50, z=-1995.70] died, message: 'Librarian was slain by Zombie'
-[01:02:41] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode spectator
-[01:02:41] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Spectator Mode]
-[01:02:45] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode survival
-[01:02:45] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Survival Mode]
-[01:02:45] [Server thread/WARN]: kryyyyyyyyyyyyy moved wrongly!
-[01:02:50] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode spectator
-[01:02:50] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Spectator Mode]
-[01:02:55] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode survival
-[01:02:55] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Survival Mode]
-[01:07:22] [Server thread/INFO]: kryyyyyyyyyyyyy has reached the goal [Zombie Doctor]
-[01:07:43] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode spectator
-[01:07:43] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Spectator Mode]
-[01:07:46] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode survival
-[01:07:46] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Survival Mode]
-[01:19:18] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode spectator
-[01:19:18] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Spectator Mode]
-[01:19:24] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode survival
-[01:19:24] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Survival Mode]
-[01:19:56] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode spectator
-[01:19:56] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Spectator Mode]
-[01:20:04] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode survival
-[01:20:04] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Survival Mode]
-[01:20:04] [Server thread/WARN]: kryyyyyyyyyyyyy moved wrongly!
-[01:27:02] [Server thread/INFO]: kryyyyyyyyyyyyy lost connection: Disconnected
-[01:27:02] [Server thread/INFO]: kryyyyyyyyyyyyy left the game
+[03:45:42] [User Authenticator #117/INFO]: UUID of player kryyyyyyyyyyyyy is 180bf6eb-1ec8-42e2-a93a-c78c59948ca4
+[03:45:48] [Server thread/INFO]: kryyyyyyyyyyyyy[/190.245.248.104:50325] logged in with entity id 659717 at ([world]-2463.4977574826094, 64.0, -2003.9092075697279)
+[03:56:16] [Server thread/INFO]: kryyyyyyyyyyyyy lost connection: Disconnected
+[03:56:16] [Server thread/INFO]: kryyyyyyyyyyyyy left the game
+[05:28:53] [User Authenticator #118/INFO]: UUID of player kryyyyyyyyyyyyy is 180bf6eb-1ec8-42e2-a93a-c78c59948ca4
+[05:28:53] [Server thread/INFO]: kryyyyyyyyyyyyy[/190.245.248.104:53962] logged in with entity id 660810 at ([world]-2467.131690476323, 64.0, -1999.4462237314667)
+[05:29:15] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode spectator
+[05:29:15] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Spectator Mode]
+[05:29:47] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode survival
+[05:29:47] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Survival Mode]
+[05:29:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5233ms or 104 ticks behind
+[05:50:44] [Server thread/INFO]: kryyyyyyyyyyyyy lost connection: Disconnected
+[05:50:44] [Server thread/INFO]: kryyyyyyyyyyyyy left the game
