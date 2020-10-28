@@ -347,6 +347,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2020-10-28 00:43:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2020-09-24 06:05:12 +0000"
@@ -550,13 +556,20 @@
       "minecraft:cave_spider": "2020-09-24 01:37:04 +0000",
       "minecraft:enderman": "2020-10-11 23:06:15 +0000",
       "minecraft:zombie": "2020-09-24 01:04:01 +0000",
-      "minecraft:drowned": "2020-09-24 02:13:06 +0000"
+      "minecraft:drowned": "2020-09-24 02:13:06 +0000",
+      "minecraft:zombie_villager": "2020-10-28 00:45:18 +0000"
     },
     "done": false
   },
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2020-10-03 01:26:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2020-10-28 04:11:31 +0000"
     },
     "done": true
   },
@@ -758,6 +771,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2020-10-28 04:11:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2020-09-23 23:49:19 +0000"
@@ -881,6 +900,12 @@
   "minecraft:recipes/decorations/light_gray_banner": {
     "criteria": {
       "has_light_gray_wool": "2020-09-27 07:41:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2020-10-28 00:43:09 +0000"
     },
     "done": true
   },
@@ -1070,6 +1095,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2020-10-28 04:11:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_black_dye": "2020-09-24 01:24:11 +0000"
@@ -1079,6 +1110,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2020-09-23 23:42:32 +0000",
+      "minecraft:jungle_edge": "2020-10-28 02:24:12 +0000",
       "minecraft:forest": "2020-09-23 22:50:07 +0000",
       "minecraft:mountains": "2020-09-24 02:24:09 +0000",
       "minecraft:taiga": "2020-09-23 23:19:27 +0000",
@@ -1086,7 +1118,9 @@
       "minecraft:deep_cold_ocean": "2020-09-24 00:09:39 +0000",
       "minecraft:taiga_hills": "2020-10-15 01:13:21 +0000",
       "minecraft:desert": "2020-09-24 01:00:17 +0000",
+      "minecraft:jungle": "2020-10-28 02:12:40 +0000",
       "minecraft:birch_forest": "2020-09-23 23:28:37 +0000",
+      "minecraft:jungle_hills": "2020-10-28 02:12:11 +0000",
       "minecraft:deep_lukewarm_ocean": "2020-09-24 02:11:06 +0000",
       "minecraft:savanna_plateau": "2020-09-24 00:54:50 +0000",
       "minecraft:beach": "2020-09-23 23:41:04 +0000",
@@ -1259,6 +1293,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2020-10-28 02:29:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2020-10-03 01:04:44 +0000",
@@ -1351,6 +1391,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2020-10-28 04:11:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
     "criteria": {
       "has_white_flower": "2020-09-23 23:02:06 +0000"
@@ -1390,6 +1436,12 @@
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2020-09-23 23:43:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2020-10-28 00:43:09 +0000"
     },
     "done": true
   },
@@ -2073,6 +2125,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2020-10-28 00:46:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2020-09-23 23:35:44 +0000"
@@ -2307,6 +2365,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2020-10-28 02:29:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/warped_stairs": {
     "criteria": {
       "has_planks": "2020-09-26 22:48:54 +0000"
@@ -2499,6 +2563,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2020-10-28 04:11:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2020-09-24 02:01:30 +0000"
@@ -2544,6 +2614,12 @@
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2020-10-17 03:06:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2020-10-28 04:11:18 +0000"
     },
     "done": true
   },
@@ -2712,6 +2788,7 @@
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
       "textures/entity/cat/jellie.png": "2020-09-24 01:12:10 +0000",
+      "textures/entity/cat/black.png": "2020-10-28 00:35:07 +0000",
       "textures/entity/cat/siamese.png": "2020-10-06 02:40:01 +0000"
     },
     "done": false
