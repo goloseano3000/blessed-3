@@ -451,3 +451,112 @@
 [08:09:57] [Server thread/INFO]: kryyyyyyyyyyyyy left the game
 [08:10:17] [User Authenticator #132/INFO]: UUID of player kryyyyyyyyyyyyy is 180bf6eb-1ec8-42e2-a93a-c78c59948ca4
 [08:10:17] [Server thread/INFO]: kryyyyyyyyyyyyy[/190.245.248.104:60298] logged in with entity id 739219 at ([world]-2442.241760054481, 89.0, -2084.1537572373727)
+[08:14:23] [Server thread/INFO]: Villager EntityVillager['Librarian'/737023, l='ServerLevel[world]', x=-2460.30, y=64.50, z=-1995.30] died, message: 'Librarian was slain by Zombie'
+[08:16:27] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode spectator
+[08:16:27] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Spectator Mode]
+[08:16:42] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode survival
+[08:16:42] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Survival Mode]
+[08:17:06] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode spectator
+[08:17:06] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Spectator Mode]
+[08:17:21] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode survival
+[08:17:21] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Survival Mode]
+[08:18:02] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode spectator
+[08:18:02] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Spectator Mode]
+[08:18:22] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode survival
+[08:18:22] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Survival Mode]
+[08:24:35] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode spectator
+[08:24:35] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Spectator Mode]
+[08:24:38] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode survival
+[08:24:38] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Survival Mode]
+[08:40:53] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode spectator
+[08:40:53] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Spectator Mode]
+[08:41:02] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode survival
+[08:41:02] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Survival Mode]
+[08:41:03] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode spectator
+[08:41:03] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Spectator Mode]
+[08:41:08] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode survival
+[08:41:08] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Survival Mode]
+[08:41:17] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode spectator
+[08:41:17] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Spectator Mode]
+[08:41:19] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode survival
+[08:41:19] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Survival Mode]
+[08:41:19] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode spectator
+[08:41:19] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Spectator Mode]
+[08:41:21] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode survival
+[08:41:21] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Survival Mode]
+[08:45:10] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode spectator
+[08:45:10] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Spectator Mode]
+[08:45:57] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode survival
+[08:45:57] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Survival Mode]
+[08:48:19] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode spectator
+[08:48:19] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Spectator Mode]
+[08:48:27] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode survival
+[08:48:27] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Survival Mode]
+[08:51:09] [Server thread/INFO]: kryyyyyyyyyyyyy lost connection: Timed out
+[08:51:09] [Server thread/INFO]: kryyyyyyyyyyyyy left the game
+[08:51:24] [User Authenticator #133/INFO]: UUID of player kryyyyyyyyyyyyy is 180bf6eb-1ec8-42e2-a93a-c78c59948ca4
+[08:51:24] [Server thread/INFO]: kryyyyyyyyyyyyy[/190.245.248.104:60443] logged in with entity id 743189 at ([world]-2465.9820871552974, 64.0, -1998.9508289410355)
+[08:53:00] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode spectator
+[08:53:00] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Spectator Mode]
+[08:53:07] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode survival
+[08:53:07] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Survival Mode]
+[08:53:18] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode spectator
+[08:53:18] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Spectator Mode]
+[08:53:24] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode survival
+[08:53:24] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Survival Mode]
+[09:03:03] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode spectator
+[09:03:03] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Spectator Mode]
+[09:03:15] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode survival
+[09:03:15] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Survival Mode]
+[09:08:16] [Async Chat Thread - #145/INFO]: <kryyyyyyyyyyyyy> sd[m
+[09:30:12] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode spectator
+[09:30:12] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Spectator Mode]
+[09:30:29] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode survival
+[09:30:29] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Survival Mode]
+[09:34:52] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode spectator
+[09:34:52] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Spectator Mode]
+[09:35:00] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode survival
+[09:35:00] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Survival Mode]
+[09:41:44] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode spectator
+[09:41:44] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Spectator Mode]
+[09:41:56] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode survival
+[09:41:56] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Survival Mode]
+[09:43:05] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode spectator
+[09:43:05] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Spectator Mode]
+[09:43:06] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode survival
+[09:43:06] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Survival Mode]
+[09:43:06] [Server thread/WARN]: kryyyyyyyyyyyyy moved wrongly!
+[09:43:36] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode spectator
+[09:43:36] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Spectator Mode]
+[09:43:57] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode survival
+[09:43:57] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Survival Mode]
+[09:44:02] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode spectator
+[09:44:02] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Spectator Mode]
+[09:44:09] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode survival
+[09:44:09] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Survival Mode]
+[09:52:08] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode spectator
+[09:52:08] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Spectator Mode]
+[09:52:24] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode survival
+[09:52:24] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Survival Mode]
+[09:55:34] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode spectator
+[09:55:34] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Spectator Mode]
+[09:55:45] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode survival
+[09:55:45] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Survival Mode]
+[09:56:50] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode spectator
+[09:56:50] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Spectator Mode]
+[09:56:54] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode survival
+[09:56:54] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Survival Mode]
+[09:56:55] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode spectator
+[09:56:55] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Spectator Mode]
+[09:57:37] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode survival
+[09:57:37] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Survival Mode]
+[09:58:42] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode spectator
+[09:58:42] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Spectator Mode]
+[09:58:59] [Server thread/INFO]: kryyyyyyyyyyyyy issued server command: /gamemode survival
+[09:58:59] [Server thread/INFO]: [kryyyyyyyyyyyyy: Set own game mode to Survival Mode]
+[10:18:24] [Server thread/INFO]: kryyyyyyyyyyyyy lost connection: Timed out
+[10:18:24] [Server thread/INFO]: kryyyyyyyyyyyyy left the game
+[10:18:49] [User Authenticator #134/INFO]: UUID of player kryyyyyyyyyyyyy is 180bf6eb-1ec8-42e2-a93a-c78c59948ca4
+[10:18:49] [Server thread/INFO]: kryyyyyyyyyyyyy[/190.245.248.104:60630] logged in with entity id 752888 at ([world]-2637.474500686232, 68.0, -2298.1027903601002)
+[10:22:16] [Server thread/INFO]: kryyyyyyyyyyyyy lost connection: Timed out
+[10:22:16] [Server thread/INFO]: kryyyyyyyyyyyyy left the game
